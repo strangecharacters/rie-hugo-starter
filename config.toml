@@ -6,7 +6,7 @@ metaDataFormat = "toml"
 paginate = 6
 
 [[module.imports]]
-path = "github.com/forestryio/hugo-theme-novela"
+path = "https://github.com/kakawait/hugo-tranquilpeak-theme"
 
 [social]
 twitter = "#"
