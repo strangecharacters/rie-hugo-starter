@@ -1,13 +1,13 @@
 ---
-title: 日本語テスト
-slug: japanese-test
+title: 日本語
+slug: japanese-test-more
 date: 2021-01-02
 categories:
 - tranquilpeak
 - features
 tags:
 - japanese
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
 ---
 This is a Japanese test post to show you how japanese is displayed.
