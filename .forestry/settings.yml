@@ -23,7 +23,7 @@ sections:
   label: Config
   create: all
   match: "**/*"
-  new_doc_ext: yaml
+  new_doc_ext: toml
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
