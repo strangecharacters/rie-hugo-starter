@@ -1,11 +1,7 @@
 ---
-title: About
+title: プロフィール
 ---
 
-Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui.
+埼玉県立不動岡高校、東京女子大学卒業。教育関係の会社に数年勤めた後、2002年にアイルランドに移る。映画鑑賞、ヨーロッパ旅行とクラシック音楽（特にピアノ）が大好き。アイルランド人の夫とダブリンに暮らす。 
 
-Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-
-Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+英語圏のアイルランドに20年近く住んでも未だに驚くこと、発見することばかり。そして、日本と日本語の便利さ、不思議さについて思いを馳せることもしょっちゅうの毎日です。

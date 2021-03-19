@@ -15,7 +15,7 @@
 baseURL = "/"
 languageCode = "en-us"
 defaultContentLanguage = "ja"
-title = "Hugo tranquilpeak theme"
+title = "Rie Riastra"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -31,12 +31,12 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "Firstname Lastname"
+  name = "Rie Temp Name"
   bio = "Super bio with markdown support **COOL**"
   job = "Your job title"
   location = "France"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "thibaud.lepretre@gmail.com"
+  gravatarEmail = "rieringomikan@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
@@ -54,41 +54,48 @@ canonifyurls = true
   url = "/"
 [[menu.main]]
   weight = 2
-  identifier = "categories"
-  name = "Categories"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  url = "/categories"
+  identifier = "アイルランドで暮らす"
+  name = "アイルランドで暮らす"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
+  url = "/categories/アイルランドで暮らす/"
 [[menu.main]]
   weight = 3
-  identifier = "tags"
-  name = "Tags"
+  identifier = "アイルランドで日本語を考える"
+  name = "日本語を考える"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-  url = "/tags"
+  url = "/categories/アイルランドで日本語を考える/"
 [[menu.main]]
   weight = 4
+  identifier = "まだまだ英語は難しい"
+  name = "まだまだ英語は難しい"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
+  url = "/categories/まだまだ英語は難しい/"
+
+[[menu.main]]
+  weight = 5
   identifier = "archives"
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
   url = "/archives"
 [[menu.main]]
-  weight = 5
+  weight = 6
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/#about"
+  url = "/about"
 
-[[menu.links]]
-  weight = 1
-  identifier = "github"
-  name = "GitHub"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/kakawait"
-[[menu.links]]
-  weight = 2
-  identifier = "stackoverflow"
-  name = "Stack Overflow"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-  url = "https://stackoverflow.com/users/636472/kakawait"
+#[[menu.links]]
+#  weight = 1
+#  identifier = "github"
+#  name = "GitHub"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
+#  url = "https://github.com/kakawait"
+#[[menu.links]]
+#  weight = 2
+#  identifier = "stackoverflow"
+#  name = "Stack Overflow"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
+#  url = "https://stackoverflow.com/users/636472/kakawait"
 
 [[menu.misc]]
   weight = 1
@@ -102,7 +109,7 @@ canonifyurls = true
   # You must use date format used by Go Time package https://golang.org/pkg/time/
   # Months (not work with short month like "jan", "feb", etc) are translated if translation exists on i18n folders
   # Default format is: January 2, 2006
-  # dateFormat = "2 January 2006"
+  dateFormat = "2006.January.2"
 
   # Global keywords configuration. Following keywords will be add to every pages
   # keywords = ["development", "next-gen"]
