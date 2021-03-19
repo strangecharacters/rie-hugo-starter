@@ -21,3 +21,19 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: category
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - 英語はまだまだ難しい
+    - アイルランドで暮らす
+    - 日本語を考える
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Category
+  description: Choose from the categories below
