@@ -15,7 +15,7 @@
 baseURL = "/"
 languageCode = "en-us"
 defaultContentLanguage = "ja"
-title = "Rie Riastra"
+title = "アイルランドの日本人 Life"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -31,10 +31,10 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "Rie Temp Name"
+  name = "アイルランドの日本人 Life"
   bio = "Super bio with markdown support **COOL**"
-  job = "Your job title"
-  location = "France"
+  job = "Rie"
+  location = "Ireland"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "rieringomikan@gmail.com"
   # Your profile picture
@@ -211,11 +211,12 @@ canonifyurls = true
   [params.header.rightLink]
     class = ""
     icon = ""
-    url = "/#about"
+    url = "/about"
 
   # Customize link of author avatar in sidebar
-  # [params.sidebar.profile]
-  #   url = "/#about"
+  [params.sidebar.profile]
+     url = "/"
+     # sidebar profile image links to homepage
 
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   # [params.footer]
