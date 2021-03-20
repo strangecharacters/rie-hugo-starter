@@ -7,3 +7,4 @@ thumbnailImagePosition = "left"
 title = "in the folder"
 
 +++
+some text 
