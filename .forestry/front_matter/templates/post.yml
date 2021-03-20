@@ -50,3 +50,5 @@ fields:
     maxSize: 64
   label: Thumbnail Image
   description: Upload a thumbnail image that shows on index page
+pages:
+- content/post/testfolder/in-the-folder.md
