@@ -48,3 +48,5 @@ fields:
   config:
     required: false
   label: Excerpt
+pages:
+- content/post/まだまだ英語は難しい/お湯を沸かして-という名の競走馬.md
