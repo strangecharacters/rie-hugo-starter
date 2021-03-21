@@ -21,22 +21,6 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-- name: Categories
-  type: select
-  default: ''
-  config:
-    required: false
-    options:
-    - アイルランドで暮らす
-    - 日本語を考える
-    - まだまだ英語は難しい
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Category
-  description: Choose from the categories below
 - name: thumbnailImagePosition
   type: text
   config:
@@ -50,3 +34,17 @@ fields:
     maxSize: 64
   label: Thumbnail Image
   description: Upload a thumbnail image that shows on index page
+- name: category
+  type: list
+  config:
+    use_select: true
+    min: 1
+    max: 1
+    source:
+      type: simple
+    options:
+    - 日本語を考える
+    - アイルランドで暮らす
+    - まだまだ英語は難しい
+  label: Category
+  description: Choose a category
