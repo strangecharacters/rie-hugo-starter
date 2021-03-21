@@ -7,6 +7,7 @@ categories:
 - まだまだ英語は難しい
 thumbnailImage: "/images/sweet_spot.jpg"
 thumbnailImagePosition: left
+draft: true
 
 ---
 先週初めて、遠近両用メガネというものを買うことになった。ド近眼の私は、コンタクトかメガネをしていないと生活できない。外に出るときはコンタクト、家ではメガネを使用していたのだが、最近メガネだとテレビの字幕などが見えにくくなってきたのだ。 
