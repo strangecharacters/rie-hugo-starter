@@ -1,6 +1,6 @@
 ---
 title: なかなか抜けないおじぎ癖
-date: 2021-03-23T12:51:36+00:00
+date: 2021-03-01T12:51:36+00:00
 tags: 
 keywords: 
 categories:
