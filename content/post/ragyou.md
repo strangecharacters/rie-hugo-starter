@@ -1,11 +1,9 @@
 ---
 title: ラ行の名前の悲劇
 date: 2021-03-06T12:47:41.000+00:00
-categories:
-- アイルランドで日本語を考える
+
 tags: 
 keywords: 
-category: 日本語を考える
 Categories: 日本語を考える
 
 ---

@@ -1,11 +1,9 @@
 ---
 title: 日本の雑誌はすごい
 date: 2021-03-10T12:43:49.000+00:00
-categories:
-- アイルランドで日本語を考える
+
 tags: 
 keywords: 
-category: 日本語を考える
 Categories: 日本語を考える
 
 ---

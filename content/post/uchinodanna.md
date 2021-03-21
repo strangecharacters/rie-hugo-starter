@@ -1,11 +1,10 @@
 ---
 title: うちのダンナとうちのカミさん
 date: 2021-03-17T12:15:36.000+00:00
-categories:
-- アイルランドで日本語を考える
+
 tags: 
 keywords: 
-category: 日本語を考える
+
 Categories: 日本語を考える
 
 ---

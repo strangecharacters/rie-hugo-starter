@@ -1,11 +1,9 @@
 ---
 title: なかなか抜けないおじぎ癖
 date: 2021-02-26T12:51:36.000+00:00
-categories:
-- アイルランドで暮らす
+
 tags: 
 keywords: 
-category: アイルランドで暮らす
 Categories: アイルランドで暮らす
 
 ---

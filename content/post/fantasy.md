@@ -1,11 +1,9 @@
 ---
 title: ファンタジー文学といっしょに育った人は幸せだ
 date: 2021-03-13T12:24:57.000+00:00
-categories:
-- アイルランドで暮らす
+
 tags: 
 keywords: 
-category: アイルランドで暮らす
 Categories: アイルランドで暮らす
 
 ---
