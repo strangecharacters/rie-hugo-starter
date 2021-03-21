@@ -1,0 +1,13 @@
+
+p {    
+    text-indent: 2rem;
+}
+
+
+/* used for captions underneath images */
+img + em {    
+    font-style: normal;
+    display: inherit;
+    text-align: right;
+    font-size: 80%;
+}
