@@ -6,7 +6,7 @@ keywords:
 categories:
 - アイルランドで暮らす
 thumbnailImage: "/images/pxl_20210315_160646111.jpg"
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 
 ---
 子どものころから本を読むことが好きで、小学生の頃はファンタジー文学に夢中だった。佐藤さとるさんの『コロボックル物語』シリーズ、わたりむつこさんの『はなはなみんみ物語』、もちろんトールキンの『ホビットの冒険』、C.S.ルイスの『ナルニア国物語』も大好きだった。
