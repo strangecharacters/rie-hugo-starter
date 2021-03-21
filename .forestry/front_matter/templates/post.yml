@@ -48,3 +48,5 @@ fields:
   config:
     required: false
   label: Excerpt
+pages:
+- content/post/madamada/sweet-spot.md
