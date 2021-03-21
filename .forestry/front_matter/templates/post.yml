@@ -34,7 +34,7 @@ fields:
     maxSize: 64
   label: Thumbnail Image
   description: Upload a thumbnail image that shows on index page
-- name: category
+- name: categories
   type: list
   config:
     use_select: true
