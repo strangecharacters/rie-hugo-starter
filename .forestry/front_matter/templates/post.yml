@@ -49,5 +49,4 @@ fields:
     required: false
   label: Excerpt
 pages:
-- content/post/madamada/sweet-spot.md
 - content/post/お湯を沸かして-という名の競走馬.md
