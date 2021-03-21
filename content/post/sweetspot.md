@@ -3,9 +3,7 @@ title: 遠近両用メガネの sweet spot
 date: 2021-03-03T12:54:06.000+00:00
 tags: 
 keywords: 
-Categories: まだまだ英語は難しい
-category:
-- まだまだ英語は難しい
+
 categories:
 - まだまだ英語は難しい
 
