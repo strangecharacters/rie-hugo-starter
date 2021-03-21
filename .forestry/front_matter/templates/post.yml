@@ -27,9 +27,9 @@ fields:
   config:
     required: false
     options:
-    - 英語はまだまだ難しい
     - アイルランドで暮らす
     - 日本語を考える
+    - まだまだ英語は難しい
     source:
       type: simple
       section: 
