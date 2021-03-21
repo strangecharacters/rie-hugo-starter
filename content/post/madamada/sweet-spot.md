@@ -1,7 +1,6 @@
 +++
 categories = ["まだまだ英語は難しい"]
 date = 2021-03-03T00:00:00Z
-draft = true
 excerpt = ""
 thumbnailImage = "/images/sweet_spot.jpg"
 thumbnailImagePosition = "left"
