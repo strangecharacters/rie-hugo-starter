@@ -25,9 +25,9 @@ fields:
     source:
       type: simple
     options:
-    - 日本語を考える
     - アイルランドで暮らす
     - まだまだ英語は難しい
+    - アイルランドで日本語を考える
   label: Category
   description: Choose a category
 - name: thumbnailImage
