@@ -6,6 +6,7 @@ categories:
 tags: 
 keywords: 
 category: 日本語を考える
+Categories: 日本語を考える
 
 ---
 アイルランドに住んで一番不便だなと思うのは、日本語の本や雑誌が手に入りづらいことだ。
