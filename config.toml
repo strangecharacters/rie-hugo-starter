@@ -18,7 +18,7 @@ defaultContentLanguage = "ja"
 title = "アイルランドの日本人 Life"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "G-YCS3EYWJR2"
 paginate = 7
 canonifyurls = true
 
