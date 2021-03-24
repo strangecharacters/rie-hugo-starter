@@ -1,5 +1,7 @@
 ---
 title: "Thank You"
+comments: false
+showSocial: false
 
 ---
 
