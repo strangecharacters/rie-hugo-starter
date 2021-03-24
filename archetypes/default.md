@@ -9,4 +9,4 @@ authors:
 draft: true
 ---
 
-Some default content
+Some default content - new post settings are coming from forestry front matter settings.

@@ -5,7 +5,8 @@ tags:
 keywords: 
 categories:
 - アイルランドで日本語を考える
-
+comments: false
+showSocial: false
 ---
 アメリカの刑事ドラマ『刑事コロンボ』シリーズ、こちらで見られるイギリスのテレビ局でランダムに再放送してくれるので、よく見ている。
 

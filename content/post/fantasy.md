@@ -7,6 +7,8 @@ categories:
 - アイルランドで暮らす
 thumbnailImage: "/images/pxl_20210315_160646111.jpg"
 thumbnailImagePosition: left
+comments: false
+showSocial: false
 
 ---
 子どものころから本を読むことが好きで、小学生の頃は洋の東西を問わずファンタジー文学に夢中だった。

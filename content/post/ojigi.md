@@ -7,7 +7,8 @@ categories:
 - アイルランドで暮らす
 thumbnailImage: ''
 thumbnailImagePosition: ''
-
+comments: false
+showSocial: false
 ---
 アイルランドに住むようになって何年も、ついおじぎをしてしまう癖が抜けなかった。車が私に道を優先してくれようなときも、反射的にぺこりと頭を下げて感謝の意思を伝えていた。
 

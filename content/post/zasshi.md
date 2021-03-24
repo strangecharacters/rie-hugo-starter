@@ -5,7 +5,8 @@ tags:
 keywords: 
 categories:
 - アイルランドで日本語を考える
-
+comments: false
+showSocial: false
 ---
 アイルランドに住んで一番不便だなと思うのは、日本語の本や雑誌が手に入りづらいことだ。この点はパリやロンドンに住んでいる日本人がうらやましい。
 
