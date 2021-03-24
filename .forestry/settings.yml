@@ -19,17 +19,15 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: document
-  path: content/thank-you.md
-  label: Thank You
-  match: "**/*"
-  read_only: false
 - type: directory
   path: config/_default
   label: Config
   create: all
   match: "**/*"
   new_doc_ext: toml
+- type: document
+  path: content/thank-you.md
+  label: Thank You
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
