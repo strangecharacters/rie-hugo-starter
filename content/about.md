@@ -2,7 +2,7 @@
 title: プロフィール
 comments: false
 showSocial: false
-
+showActions: false
 ---
 子ども時代は主に埼玉と栃木で過ごす。教育系の仕事で東京と大阪に数年ずつ勤務した後、2002年にアイルランドに移る。現在はアイルランド人の夫とダブリンに暮らす。
 
