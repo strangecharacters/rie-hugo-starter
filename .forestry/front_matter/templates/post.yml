@@ -49,6 +49,7 @@ fields:
     required: false
   label: Excerpt
 pages:
+- content/post/sweets.md
 - content/post/お湯を沸かして-という名の競走馬.md
 - content/post/今年で最後-のサマータイムが始まった.md
 - content/post/海外でメガネを買うときは注意.md
