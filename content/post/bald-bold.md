@@ -3,7 +3,7 @@ categories = ["まだまだ英語は難しい"]
 date = 2021-04-05T23:00:00Z
 excerpt = ""
 thumbnailImage = ""
-thumbnailImagePosition = "left"
+thumbnailImagePosition = ""
 title = "Bald & bold：「頭のはげた」と「大胆な」の発音は似ている"
 
 +++
