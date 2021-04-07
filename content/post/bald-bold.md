@@ -4,7 +4,7 @@ date = 2021-04-05T23:00:00Z
 excerpt = ""
 thumbnailImage = ""
 thumbnailImagePosition = ""
-title = "Bald & bold：「頭のはげた」と「大胆な」の発音は似ている"
+title = "Bald & bold：「頭のはげた」と「大胆な」の発音"
 
 +++
 日本語を勉強している高校生の男の子から、「Bald って日本語で何て言うの」と聞かれ、思わずウッとなった。Bald なのか bold なのか一瞬聞き取れなかったのだ。この二つの言葉の意味はかなり違う。
