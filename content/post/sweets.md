@@ -2,7 +2,7 @@
 categories = ["まだまだ英語は難しい"]
 date = 2021-04-01T00:00:00Z
 excerpt = ""
-thumbnailImage = "/images/easter-2.jpg"
+thumbnailImage = "/images/easter_egg_thumnail.jpg"
 thumbnailImagePosition = "left"
 title = "イースターチョコはスイーツ sweets？"
 
