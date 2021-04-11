@@ -5,7 +5,7 @@ tags:
 keywords: 
 categories:
 - アイルランドで暮らす
-thumbnailImage: "/images/fantasy-books-3.jpg"
+thumbnailImage: "/images/fantasy-books_thumnail.jpg"
 thumbnailImagePosition: left
 comments: false
 showSocial: false
