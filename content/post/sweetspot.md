@@ -5,7 +5,7 @@ tags:
 keywords: 
 categories:
 - まだまだ英語は難しい
-thumbnailImage: "/images/sweet_spot.jpg"
+thumbnailImage: "/images/sweet_spot_thumnail.jpg"
 thumbnailImagePosition: left
 comments: false
 showSocial: false
