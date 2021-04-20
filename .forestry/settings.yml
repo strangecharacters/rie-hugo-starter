@@ -20,11 +20,6 @@ sections:
   templates:
   - post
 - type: directory
-  path: content/post/すでにアップ済み
-  label: すでにアップ済み
-  create: all
-  match: "**/*"
-- type: directory
   path: config/_default
   label: Config
   create: all
