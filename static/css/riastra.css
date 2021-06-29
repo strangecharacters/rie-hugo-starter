@@ -30,3 +30,28 @@ button {
 form {
     margin-top: 6rem;
 }
+/* cover image used as background 
+start with the smallest size - mobile first approach*/
+
+@media only screen and (min-width: 768px) {
+    #cover{
+    background-size: 70%;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    #cover{
+    background-size: 50%;
+    }
+}
+
+
+
+@media only screen and (min-width: 1200px) {
+    #cover{
+    background-size: 45%;
+    }
+}
+
+
+
