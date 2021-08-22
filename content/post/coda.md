@@ -3,7 +3,7 @@ categories = ["まだまだ英語は難しい"]
 date = 2021-08-21T23:00:00Z
 excerpt = ""
 thumbnailImage = ""
-thumbnailImagePosition = ""
+thumbnailImagePosition = "left"
 title = "CODA（コーダ）＝ろう者を親にもつ聴者"
 
 +++
