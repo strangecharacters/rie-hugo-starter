@@ -37,7 +37,7 @@ CODA が Children of Deaf Adults（ろう者を親にもつ聴者）だという
 
 ![](/images/kunisada_1.webp)
 
-> チェスター・ビーティー Chester Beatty 博物館で5月末で開催されている[江戸木版画の特別展示『Edo in Colour』](https://chesterbeatty.ie/exhibitions/edo-in-colour/)で、こんな面白い作品を発見。歌川国貞の「美人東海道」シリーズの一つで、背景に東海道五十三次の宿場の風景（ここでは新井)、手前には美しい女性がその地に関連した風俗で描かれる。
+> チェスター・ビーティー Chester Beatty 博物館で5月末から開催されている[江戸木版画の特別展示『Edo in Colour』](https://chesterbeatty.ie/exhibitions/edo-in-colour/)で、こんな面白い作品を発見。歌川国貞の「美人東海道」シリーズの一つで、背景に東海道五十三次の宿場の風景（ここでは新井)、手前には美しい女性がその地に関連した風俗で描かれる。
 
 ![](/images/kunisada_2.webp)
 
