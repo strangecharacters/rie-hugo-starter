@@ -49,6 +49,7 @@ fields:
     required: false
   label: Excerpt
 pages:
+- content/post/500.md
 - content/post/bald-bold.md
 - content/post/coda.md
 - content/post/sweets.md
