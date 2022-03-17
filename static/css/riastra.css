@@ -1,0 +1,57 @@
+
+p {    
+    text-indent: 2rem;
+}
+
+
+/* used for captions underneath images */
+img + em {    
+    font-style: normal;
+    display: inherit;
+    text-align: right;
+    font-size: 80%;
+}
+
+input[type=text],input[type=password],input[type=email],textarea {
+    padding: 10px;
+    margin:10px 0; 
+    width: 70%;
+    border-radius:10px;    
+    font-family:inherit;
+    font-size: inherit;
+  }
+  input[type=text]:focus,input[type=password]:focus,input[type=email]:focus,textarea:focus {
+      border-radius: 10px; // focus looks wrong TODO
+  } 
+button {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+form {
+    margin-top: 6rem;
+}
+/* cover image used as background 
+start with the smallest size - mobile first approach*/
+
+@media only screen and (min-width: 768px) {
+    #cover{
+    background-size: 70%;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    #cover{
+    background-size: 50%;
+    }
+}
+
+
+
+@media only screen and (min-width: 1200px) {
+    #cover{
+    background-size: 45%;
+    }
+}
+
+
+

@@ -1,0 +1,107 @@
+---
+label: Post
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: categories
+  type: list
+  config:
+    use_select: true
+    min: 1
+    max: 1
+    source:
+      type: simple
+    options:
+    - アイルランドで暮らす
+    - まだまだ英語は難しい
+    - アイルランドで日本語を考える
+  label: Category
+  description: Choose a category
+- name: thumbnailImage
+  type: file
+  config:
+    maxSize: 64
+  label: Thumbnail Image
+  description: Upload a thumbnail image that shows on index page
+- name: thumbnailImagePosition
+  type: text
+  config:
+    required: false
+  label: Thumbnail Image Position
+  description: Position of thumbnail on index page (left/right)
+  default: left
+- name: excerpt
+  type: text
+  config:
+    required: false
+  label: Excerpt
+- name: tags
+  type: tag_list
+  default: []
+  label: Tag
+  description: Add tags to this blog post
+- name: showTags
+  type: boolean
+  label: Show Tags
+  description: Show this page's tags
+  hidden: true
+  default: true
+pages:
+- content/post/500.md
+- content/post/a-grand-stretch.md
+- content/post/bald-bold.md
+- content/post/chinese-new-year.md
+- content/post/coda.md
+- content/post/sweets.md
+- content/post/wordle.md
+- content/post/おそらく優秀な郵便屋さん.md
+- content/post/お湯を沸かして-という名の競走馬.md
+- content/post/ここがポイントです-のポイント.md
+- content/post/イングランド旅行記①-バース-ローマ時代の願い事.md
+- content/post/イングランド旅行記②-ロンドンでアート三昧-バレエも.md
+- content/post/ウクライナを想って.md
+- content/post/オリンピックマラソンのゴミ箱.md
+- content/post/ケリー旅行記①-ケリー王国は熱帯夜に.md
+- content/post/ケリー旅行記②-スケリッグ諸島とチョコレート.md
+- content/post/ケリー旅行記③-今年はみんなでステイケーション.md
+- content/post/コロナ禍-のもとの日本語.md
+- content/post/コーヒーが冷めないうちに.md
+- content/post/ダブリンにある-会員限定-の公園.md
+- content/post/バスの番号の読み方.md
+- content/post/パクチー-ビーツ-野菜の日本語は国際的.md
+- content/post/フェニックス公園で大みそか-元旦にブースター接種.md
+- content/post/フェルメールを英語で言うと.md
+- content/post/フランス映画でホリデー気分.md
+- content/post/マッサージのときの英語.md
+- content/post/メアリーの運命.md
+- content/post/ヨガをしてあげてください.md
+- content/post/ロマンチックなアイルランド人.md
+- content/post/一回目のワクチンを接種してきた.md
+- content/post/久々の外食でチップをはずむ.md
+- content/post/今も独り身-英語の代名詞ですぐわかる.md
+- content/post/今年で最後-のサマータイムが始まった.md
+- content/post/公園を歩くようにピアノを弾く.md
+- content/post/同じ名前だらけの家族.md
+- content/post/年末にハッピーニューイヤー.md
+- content/post/心に刺さったバスの運転手さんの優しさ.md
+- content/post/愛しのアイルランド.md
+- content/post/有名人を見かけても騒がない.md
+- content/post/海外でメガネを買うときは注意.md
+- content/post/秋の味覚とモンブラン.md
+- content/post/英語の数字は頭に入らない.md
+- content/post/英語化のコンプライアンス.md
+- content/post/衣替えをしない人たち.md
+- content/post/鼻風邪と頭風邪.md
