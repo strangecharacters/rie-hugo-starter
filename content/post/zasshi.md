@@ -1,7 +1,8 @@
 ---
 title: 日本の雑誌はすごい
 date: 2021-03-10T12:43:49.000+00:00
-tags: 
+tags:
+- 音楽と本
 keywords: 
 categories:
 - アイルランドで日本語を考える
