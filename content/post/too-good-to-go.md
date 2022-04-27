@@ -63,4 +63,4 @@ Too good to goとは「捨てるにはよすぎる」、つまり「捨てるに
 
 ![](/images/toogoodtogo-5.webp)
 
-> 前から試したかったダブリンの[老舗ドーナツ屋 The Rolling Donut](https://www.therollingdonut.ie/)。イースト生地からではなくサワー種（ドウ）sourdough から作られている。5.99ユーロで6個。一つひとつがとても大きくて、口を大きく開けないと食べられないほど。普通に買えばひとつ3ユーロです。
+> 前から試したかったダブリンの[老舗ドーナツ屋 The Rolling Donut](https://www.therollingdonut.ie/)。イースト生地からではなくサワー種（ドウ）sourdough から作られている。5.99ユーロで6個。一つひとつがとても大きくて、口を大きく開けないと噛みつけられないほど。普通に買えばひとつ3ユーロです。
