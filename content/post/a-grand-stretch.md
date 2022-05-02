@@ -3,7 +3,7 @@ categories = ["まだまだ英語は難しい"]
 date = 2022-01-30T00:00:00Z
 excerpt = ""
 showTags = true
-tag = ["Can be anything you want Darling"]
+
 tags = ["アイルランドの季節と天気", "アイルランドの英語"]
 thumbnailImage = "/images/twilight-2022.webp"
 thumbnailImagePosition = "left"
