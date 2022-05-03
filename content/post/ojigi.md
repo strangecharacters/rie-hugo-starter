@@ -1,11 +1,7 @@
 ---
 title: なかなか抜けないおじぎ癖
 date: 2021-03-01T12:51:36.000+00:00
-<<<<<<< HEAD
-tags: 
-=======
 tags:
->>>>>>> f54fbba50b9e67d99533d77be5c24950a4bc7ce7
 - アイルランドの小さな日本
 keywords: 
 categories:
