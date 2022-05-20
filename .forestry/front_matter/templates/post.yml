@@ -60,6 +60,7 @@ fields:
   hidden: true
   default: true
 pages:
+- content/post/13.md
 - content/post/500.md
 - content/post/a-grand-stretch.md
 - content/post/bald-bold.md
