@@ -33,7 +33,7 @@ title = "ビタミンDが取りにくいアイルランド"
 
 ![](/images/fish-in-shop-1.webp)
 
-> 私のよく行く大型スーパーの鮮魚コーナー（fishmonger フィッシュモンガーは魚屋のこと）。夕方にこの写真を撮ったせいもあるが、扱う魚介類の種類は多くない。鮭 salmon、タラ cod、メルルーサ hake、キス whiting、マス trout、ホタテ貝 scallop、ムール貝 mussels、海老 shrimp、鮭やニシン kipper の燻製ぐらいだ。ときどきマグロ tuna も加わる。
+> 私のよく行く大型スーパーの鮮魚コーナー（fishmonger フィッシュモンガーは魚屋のこと）。夕方にこの写真を撮ったせいもあるが、普段から扱う魚介類の種類は多くない。鮭 salmon、タラ cod、メルルーサ hake、キス whiting、マス trout、ホタテ貝 scallop、ムール貝 mussels、海老 shrimp、鮭やニシン kipper の燻製ぐらいだ。ときどきマグロ tuna も加わる。
 
 ![](/images/fish-in-shop-2.webp)
 
