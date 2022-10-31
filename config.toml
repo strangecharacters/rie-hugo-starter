@@ -14,17 +14,21 @@ location = "Ireland"
 name = "アイルランドの日本人 Life"
 picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
 [[menu.main]]
+name = "日本・ヨーロッパ旅行記"
+url = "/categories/日本・ヨーロッパ旅行記/"
+weight = 5
+[[menu.main]]
 identifier = "お問い合わせ"
 name = "プロフィール"
 pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
 url = "/about"
-weight = 6
+weight = 7
 [[menu.main]]
 identifier = "すべての記事"
 name = "すべての記事"
 pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
 url = "/archives"
-weight = 5
+weight = 6
 [[menu.main]]
 identifier = "まだまだ英語は難しい"
 name = "まだまだ英語は難しい"
