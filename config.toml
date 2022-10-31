@@ -17,6 +17,7 @@ picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simp
 name = "日本・ヨーロッパ旅行記"
 url = "/categories/日本・ヨーロッパ旅行記/"
 weight = 5
+pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
 [[menu.main]]
 identifier = "お問い合わせ"
 name = "プロフィール"
