@@ -62,6 +62,7 @@ fields:
   default: true
 pages:
 - content/post/13.md
+- content/post/1823.md
 - content/post/30.md
 - content/post/500.md
 - content/post/a-grand-stretch.md
