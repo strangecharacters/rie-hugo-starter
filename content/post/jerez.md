@@ -106,7 +106,7 @@ title = "へレス Jerez でシェリー酒とスペイン絵画を味わう"
 
 ![](/images/bodegas-tradicion-gallery-6.webp)
 
-> 宮廷お抱え画家だったゴヤ Francisco José de Goya が描いたカルロス4世の家族の絵のうちの2枚、カルロス4世夫妻の対の肖像画。ゴヤにかかると王族も隣のおばさん、おじさんのように見えてくる。もっと美人に描いてほしいとか思わなかったのかな。
+> 宮廷お抱え画家だったゴヤ Francisco José de Goya が描いたカルロス4世の家族の絵のうちの2枚、カルロス4世夫妻の対の肖像画。ゴヤにかかると王族も隣のおばさん、おじさんのように見える。もっと美人に描いてほしいとか思わなかったのかな。
 
 ![](/images/bodegas-tradicion-gallery-3.webp)
 
@@ -114,7 +114,7 @@ title = "へレス Jerez でシェリー酒とスペイン絵画を味わう"
 
 ![](/images/imacular-conception-francisco-de-zurbaran.jpg)
 
-今回の旅行までほとんど知らなかった画家[フランシスコ・デ・スルバラン Francisco de Zurbarán](https://aznalfarache.blogspot.com/2013/11/zurbaran-y-la-inmaculada-concepcion.html) の『無原罪の御宿り Immaculate conception』。2人の天使の頭を持つ下弦の月が聖母を支えている。
+> 今回の旅行までほとんど知らなかった画家[フランシスコ・デ・スルバラン Francisco de Zurbarán](https://aznalfarache.blogspot.com/2013/11/zurbaran-y-la-inmaculada-concepcion.html) の『無原罪の御宿り Immaculate conception』。2人の天使の頭を持つ下弦の月が聖母を支えている。
 
 ガイドさんが10分ほど簡単に美術品の概要を説明してくれてから、「好きなだけ時間をかけていいですよ」と私たちをギャラリーに残してくれた。このくらいの規模だと一点一点じっくり見ても疲れなくてよい。
 
