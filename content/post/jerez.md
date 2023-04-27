@@ -1,14 +1,15 @@
 +++
-categories = ["日本・ヨーロッパ旅行記"]
-date = 2023-04-12T23:00:00Z
+categories = [ "日本・ヨーロッパ旅行記" ]
+date = 2023-04-12T23:00:00.000Z
 excerpt = ""
 showTags = true
-tags = ["ヨーロッパ旅行記", "アートに浸る"]
+tags = [ "ヨーロッパ旅行記", "アートに浸る" ]
 thumbnailImage = "/images/bodegas-tradicion-gallery-6.webp"
 thumbnailImagePosition = "left"
 title = "へレス Jerez でシェリー酒とスペイン絵画を味わう"
-
+_template = "post"
 +++
+
 3月末から10日間、スペインはアンダルシア地方のへレス、アルコス・デ・ラ・フロンテ―ラ、そしてセビージャに行ってきた。
 
 <!--more-->

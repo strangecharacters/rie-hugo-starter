@@ -1,15 +1,15 @@
 +++
-categories = ["まだまだ英語は難しい"]
-date = 2022-01-30T00:00:00Z
+categories = [ "まだまだ英語は難しい" ]
+date = 2022-01-30T00:00:00.000Z
 excerpt = ""
 showTags = true
-
-tags = ["アイルランドの季節と天気", "アイルランドの英語"]
+tags = [ "アイルランドの季節と天気", "アイルランドの英語" ]
 thumbnailImage = "/images/twilight-2022.webp"
 thumbnailImagePosition = "left"
 title = "A grand stretch 日が長くなってきた"
-
+_template = "post"
 +++
+
 あっという間に1月も終わり。アイルランドでは季節の移ろいを自然や食べ物から意識することは日本にいたときより少ないが、日照時間の変化で「春が近づいてきたな」とわかる。
 
 <!--more-->

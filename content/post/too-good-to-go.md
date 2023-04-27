@@ -1,14 +1,15 @@
 +++
-categories = ["アイルランドで暮らす"]
-date = 2022-04-26T23:00:00Z
+categories = [ "アイルランドで暮らす" ]
+date = 2022-04-26T23:00:00.000Z
 excerpt = ""
 showTags = true
-tags = ["おすすめレストラン"]
+tags = [ "おすすめレストラン" ]
 thumbnailImage = "/images/toogoodtogo-1.webp"
 thumbnailImagePosition = "left"
 title = "飲食店の「もったいない」を減らすアプリ Too Good To Go"
-
+_template = "post"
 +++
+
 私は全くコーヒーのことがわからないが、飲むとしたらカフェラテ。朝の休憩時間によく職場から一番近いカフェに行ってラテを頼む。
 
 <!--more-->

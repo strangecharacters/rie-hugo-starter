@@ -1,14 +1,15 @@
 +++
-categories = ["アイルランドで暮らす"]
-date = 2022-07-26T23:00:00Z
+categories = [ "アイルランドで暮らす" ]
+date = 2022-07-26T23:00:00.000Z
 excerpt = ""
 showTags = true
-tags = ["健康について"]
+tags = [ "健康について" ]
 thumbnailImage = "/images/vitamin-d.webp"
 thumbnailImagePosition = "left"
 title = "ビタミンDが取りにくいアイルランド"
-
+_template = "post"
 +++
+
 アイルランド人はビタミンDが不足傾向にある、というのは以前から知っていた。そうだよね、お日様があまり長い時間は出ていないからね、と他人事のように思っていた。
 
 <!--more-->

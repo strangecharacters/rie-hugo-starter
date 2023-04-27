@@ -1,14 +1,15 @@
 +++
-categories = ["アイルランドで暮らす"]
-date = 2022-04-12T23:00:00Z
+categories = [ "アイルランドで暮らす" ]
+date = 2022-04-12T23:00:00.000Z
 excerpt = ""
 showTags = true
-tags = ["アイルランドの小さな日本", "おすすめレストラン", "ダブリンの見どころ"]
+tags = [ "アイルランドの小さな日本", "おすすめレストラン", "ダブリンの見どころ" ]
 thumbnailImage = "/images/hanami-taiko.jpg"
 thumbnailImagePosition = "left"
 title = "フェニックス公園でお花見「ジャパン・デー Japan Day」"
-
+_template = "post"
 +++
+
 先週末の4月10日（日）、ダブリンのフェニックス公園で行われたお花見イベント、Hanami Festival に行ってきた。
 
 <!--more-->

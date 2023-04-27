@@ -1,14 +1,15 @@
 +++
-categories = ["まだまだ英語は難しい"]
-date = 2021-04-01T00:00:00Z
+categories = [ "まだまだ英語は難しい" ]
+date = 2021-04-01T00:00:00.000Z
 excerpt = ""
 showTags = true
-tags = ["アイルランドの英語", "アイルランドの行事"]
+tags = [ "アイルランドの英語", "アイルランドの行事" ]
 thumbnailImage = "/images/easter_egg_thumnail.jpg"
 thumbnailImagePosition = "left"
 title = "イースターチョコはスイーツ sweets？"
-
+_template = "post"
 +++
+
 アイルランドでは、クリスマスの次に大きな行事はイースター（復活祭）。この時期になると、卵とウサギをかたどったチョコレートがずらりと店頭に並ぶ。先週、近所の大きなスーパーに買い物に行ったら、ほとんどすべての買い物客のカートにイースターチョコレートが入っていた。
 
 <!--more-->

@@ -1,14 +1,15 @@
 +++
-categories = ["まだまだ英語は難しい"]
-date = 2022-02-21T00:00:00Z
+categories = [ "まだまだ英語は難しい" ]
+date = 2022-02-21T00:00:00.000Z
 excerpt = ""
 showTags = true
-tags = []
+tags = [ ]
 thumbnailImage = ""
 thumbnailImagePosition = ""
 title = "アイルランドでも人気の単語当てゲーム Wordle"
-
+_template = "post"
 +++
+
 2週間ほど前に同僚から「これ今すごいハマってるの」と教えてもらった英単語当てゲーム『ワードル Wordle』。やり始めたら確かに面白く、今や私の日課になってしまった。
 
 <!--more-->

@@ -1,14 +1,15 @@
 +++
-categories = ["まだまだ英語は難しい"]
-date = 2023-02-22T00:00:00Z
+categories = [ "まだまだ英語は難しい" ]
+date = 2023-02-22T00:00:00.000Z
 excerpt = ""
 showTags = true
-tags = ["アイルランドの英語", "おすすめレストラン"]
+tags = [ "アイルランドの英語", "おすすめレストラン" ]
 thumbnailImage = "/images/echigoya-2.webp"
 thumbnailImagePosition = "left"
 title = "Batter & butter: アイルランドの「天ぷらの衣」は「バター」入り？"
-
+_template = "post"
 +++
+
 最近ダブリンのレストランで、天ぷらや天丼を何回か食べた。日本で食べるサクッとした衣の天ぷらにはなかなかお目にかかれない。つゆにしても、天つゆがなかったり、味がどうにも頼りなかったりする。ないものねだりかな。
 
 <!--more-->

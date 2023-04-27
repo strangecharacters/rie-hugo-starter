@@ -1,14 +1,15 @@
 +++
-categories = ["アイルランドで暮らす"]
-date = 2022-02-06T00:00:00Z
+categories = [ "アイルランドで暮らす" ]
+date = 2022-02-06T00:00:00.000Z
 excerpt = ""
 showTags = true
-tags = ["おすすめレストラン", "アイルランドの行事"]
+tags = [ "おすすめレストラン", "アイルランドの行事" ]
 thumbnailImage = "/images/chinese-new-year-2022-1.webp"
 thumbnailImagePosition = "left"
 title = "ダブリンで旧正月 Chinese New Year を祝う"
-
+_template = "post"
 +++
+
 今年は2月1日が太陰暦（旧暦）の旧正月にあたるそうで、先週、今週は春節 Spring Festival を祝うイベントがたくさんあった。
 
 <!--more-->
