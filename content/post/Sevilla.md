@@ -4,6 +4,7 @@ date = 2023-04-26T23:00:00.000Z
 categories = [ "日本・ヨーロッパ旅行記" ]
 thumbnailImage = "https://assets.tina.io/dba3da12-4b11-46d5-a323-bbeb13ea634e/Paso Jesus.webp"
 thumbnailImagePosition = "left"
+tags = [ "ヨーロッパ旅行記" ]
 +++
 
 スペイン、アンダルシアの州都 Sevilla。ロッシーニの有名なオペラ『セビリアの理髪師』のように、昔は「セビリア」と表していたと記憶するが、最近はセビージャ、セビーリャとも記載されるよう。
