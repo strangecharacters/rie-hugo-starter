@@ -24,7 +24,7 @@ showTags = true
 
 > Groups of countries, as defined by EUMETSAT, for storm survey and naming: ヨーロッパの嵐の名前は EUMETSTAT という気象サービスの枠組みに基づいて色分けされた国々が共同で命名している。
 
-嵐の名前は9月から年度ごとに決める。今年度は Agnes アグネスから始まり、Ciarán キーローンや Fergus ファーガスといったアイルランド独特の男性の名前もある。T の Tamiko が気になるが、これは日本の名前？ 民子さん？
+嵐の名前は9月から年度ごとに決まる。今年度は Agnes アグネスから始まり、Ciarán キーローンや Fergus ファーガスといったアイルランド独特の男性の名前もある。T の Tamiko が気になるが、これは日本の名前？ 民子さん？
 
 ![](</2024-01-24-2_Storm names 2023-24.webp>)
 
