@@ -4,7 +4,7 @@ date = 2024-01-24T00:00:00.000Z
 categories = [ "まだまだ英語は難しい" ]
 thumbnailImage = "/2024-01-24-2_Storm names 2023-24.webp"
 thumbnailImagePosition = "left"
-tags = [ "アイルランドの季節と天候" ]
+tags = [ "アイルランドの季節と天気" ]
 showTags = true
 +++
 
