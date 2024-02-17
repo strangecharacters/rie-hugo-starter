@@ -4,7 +4,7 @@ date = 2024-02-10T00:00:00.000Z
 categories = [ "日本・ヨーロッパ旅行記" ]
 thumbnailImage = "/2024-02-10-Ams-11.jpg"
 thumbnailImagePosition = "left"
-tags = [ "アートに浸る", "ヨーロッパ旅行記" ]
+tags = [ "オランダ旅行記", "アートに浸る", "ヨーロッパ旅行記" ]
 showTags = true
 +++
 
