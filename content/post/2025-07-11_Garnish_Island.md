@@ -18,7 +18,7 @@ showTags = true
 
 #### ![](/0080711-Garnish-1.webp)
 
-> ウエストコークにはいくつもの島が浮かぶが、ガーニッシュ島はその中でも約15ヘクタール（東京ドーム3つ分）と小さな島。グレンガーリフ Glengarriff という町から小さいフェリーか水上バスで約15分でアクセスできる。（地図出典 [https://westcorkislands.com/）](https://westcorkislands.com/%EF%BC%89)
+> ウエストコークにはいくつもの島が浮かぶが、ガーニッシュ島はその中でも約 15ヘクタール（東京ドーム 3つ分）と小さな島。グレンガーリフ Glengarriff という町から小さいフェリーか水上バスで約 15分でアクセスできる。（地図出典 [https://westcorkislands.com/）](https://westcorkislands.com/%EF%BC%89)
 
 ![](/0080711-Garnish-3.webp)
 
