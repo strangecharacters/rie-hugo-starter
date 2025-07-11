@@ -2,6 +2,9 @@
 title = "まるで常夏の島、ガーニッシュ島 Garnish Island に渡る"
 date = 2025-07-10T23:00:00.000Z
 categories = [ "アイルランドで暮らす" ]
+thumbnailImage = "/0080711-Garnish-13.webp"
+thumbnailImagePosition = "left"
+tags = [ "アイルランド旅行記" ]
 showTags = true
 +++
 
@@ -15,7 +18,7 @@ showTags = true
 
 #### ![](/0080711-Garnish-1.webp)
 
-> ウエストコークにはいくつもの島が浮かぶが、ガーニッシュ島はその中でも約15ヘクタール（東京ドーム3つ分）と小さな島。グレンガーリフ Glengarriff という町から小さいフェリーか水上バスで約15分でアクセスできる。（地図出典 https\://westcorkislands.com/）
+> ウエストコークにはいくつもの島が浮かぶが、ガーニッシュ島はその中でも約15ヘクタール（東京ドーム3つ分）と小さな島。グレンガーリフ Glengarriff という町から小さいフェリーか水上バスで約15分でアクセスできる。（地図出典 [https://westcorkislands.com/）](https://westcorkislands.com/%EF%BC%89)
 
 ![](/0080711-Garnish-3.webp)
 
