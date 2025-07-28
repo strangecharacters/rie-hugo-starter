@@ -72,7 +72,7 @@ showTags = true
 
 ![](/0090727-TempleBar-4.webp)
 
-> テンプルバーの西側にある Essex Street にある、アイルランドのデザイナー数人が共同運営をしているギフトショップ Design Lane は私のおすすめ。 
+> テンプルバーの西側の Essex Street にある、アイルランドのデザイナー数人が共同運営をしているギフトショップ Design Lane は私のおすすめ。 
 
 ![](/0090727-TempleBar-1.webp)
 
