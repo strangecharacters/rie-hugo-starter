@@ -8,7 +8,7 @@ categories = [ "アイルランドで暮らす" ]
 
 <!--more-->
 
-#### 世界中の主な観光地のネットのレビューを統計した Nomad eSlim が、「Top 50 Tourist Traps of 2025」、つまり今年の「がっかりした観光地トップ50」を発表。そのワースト上位にテンプルバー Temple Bar が挙げられていたからだ。
+#### 世界中の主な観光地のネットのレビューを統計した [Nomad eSlim が、「Top 50 Tourist Traps of 2025」](https://www.getnomad.app/media-center/top-tourist-traps-2025)、つまり今年の「がっかりした観光地トップ50」を発表。そのワースト上位にテンプルバー Temple Bar が挙げられていたからだ。
 
 #### ![](</0090727-Temple Bar Map.png>)
 
