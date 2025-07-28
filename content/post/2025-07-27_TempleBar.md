@@ -2,6 +2,10 @@
 title = "残念な観光地、テンプルバーの見どころ"
 date = 2025-07-27T23:00:00.000Z
 categories = [ "アイルランドで暮らす" ]
+thumbnailImage = "/0090727-TempleBar-8.webp"
+thumbnailImagePosition = "left"
+tags = [ "ダブリンの見どころ" ]
+showTags = true
 +++
 
 #### 今月、ダブリンの観光地「テンプルバー」がアイルランドのニュースでちょっと話題になった。
