@@ -28,9 +28,7 @@ showTags = true
 
 #### そしてワースト3位はわがアイルランド、ダブリンの街中にあるテンプルバー Temple Bar。「混雑しすぎているし、値段も高く、過大評価されている」と総括されていた。
 
-> Known for its cobbled streets, colorful pubs, and exciting nightlife, the area draws huge crowds seeking an “authentic” Irish experience. But for many visitors, the reality doesn’t live up to the hype. Complaints range from sky-high prices and rowdy stag parties to a lack of genuine local culture. 
-
-> 石畳の道、カラフルな店構えのパブ、そして刺激的なナイトライフで知られるこのエリアは、「本物の」アイルランド体験を求めている多くの人々を惹きつけている。しかし、多くの観光客にとって、現実は期待に応えるものではない。高すぎる物価、騒々しいスタッグパーティー、そして本物の地元文化の欠如など、様々な不満が寄せられている。
+> Known for its cobbled streets, colorful pubs, and exciting nightlife, the area draws huge crowds seeking an “authentic” Irish experience. But for many visitors, the reality doesn’t live up to the hype. Complaints range from sky-high prices and rowdy stag parties to a lack of genuine local culture. 石畳の道、カラフルな店構えのパブ、そして刺激的なナイトライフで知られるこのエリアは、「本物の」アイルランド体験を求めている多くの人々を惹きつけている。しかし、多くの観光客にとって、現実は期待に応えるものではない。高すぎる物価、騒々しいスタッグパーティー、そして本物の地元文化の欠如など、様々な不満が寄せられている。
 
 #### ごもっとも。ダブリンに住む人たちは、テンプルバーではまず遊ばないし、観光客目当ての店はなるべく避ける。
 
@@ -58,7 +56,7 @@ showTags = true
 
 ![](/0090727-TempleBar-8.webp)
 
-> シネイド・オコナーが若い時に働いていたことで有名なカフェ Bad Ass Café もあるこの広場では、 毎週金曜（変更の場合も）にブックマーケットが催される。
+> シネイド・オコナーが若い時に働いていたことで有名なカフェ Bad Ass Café もあるこの広場では、 時々屋外マーケットがやっている。
 
 ![](/0090727-TempleBar-5.webp)
 
